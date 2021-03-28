@@ -24,7 +24,7 @@ KEY_NAME=""
 VAL_ADDR="sentvaloper..."
 VAL_NAME=""
 OWNER_ADDR="sent1..."
-SAVE_FOR_FEES="10000000" #minimum amount to safe on wallet to pay fees => 10
+SAVE_FOR_FEES="100000000" #minimum amount to safe on wallet to pay fees => 100
 
 # Start
 echo
